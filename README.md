@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 Studying **Computer Science & Artificial Intelligence**
-- 🌱 Learning **Advanced ML techniques, Deep Learning, and Backend Development**
+- 🌱 Learning **Advanced ML techniques, Deep Learning, *
 - 💬 Ask me about **Python, AI/ML, and Data Projects**
 - 🌍 Based in **Egypt**
 
