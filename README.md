@@ -45,7 +45,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/KhaledAbdelazim/KhaledAbdelazim/blob/output/github-contribution-grid-snake.gif)
 
----
