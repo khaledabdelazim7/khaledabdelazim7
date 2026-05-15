@@ -16,10 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledAbdelazim&show_icons=true&theme=tokyonight)  
-
----
 
 ## 🛠️ Tech Stack
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
